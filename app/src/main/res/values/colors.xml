@@ -3,4 +3,5 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="colorPrimary">#56B4AF</color>
+    <color name="swipe_refresh_color">?attr/colorPrimary</color>
 </resources>
